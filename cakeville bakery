@@ -1,0 +1,40 @@
+
+
+  
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CAKEVILLE-KENYA</title>
+        <style>
+            h1{color:purple;
+                font-style:italic;
+                 font-family:monospace
+                text-decoration:underline
+            h2{color:yellow;}
+      #ville{background-color:grey;    
+            font-family:monospace;
+          font-style:cursive;}
+        </style>
+    </head>
+    <body>
+  <h1>Cakeville-Kenya bakery</h1>
+       <div id="ville" ><h2>The beauty of Cakeville</h2>
+ <p>Welcome to Cakeville in Kenya.One of the most highly rated bakeries.From all those spongy,sugary delicous cakes,swiss rolls to crunchy cookies that make you want to come back
+          for more.Your orders are delivered in time and just the way you want it prepared.Who wouldnt want delicious pastries especially if all your demands are catered for in one pack!
+          Late for work and can't make breakfast at home??WELL..Cakeville is the best option..drop by and have some coffee and something extra maybe warm soft,crunchy bread,croissants and
+            lots more.</p>
+<p><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D2832621000081524&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fcakevillekenya%2F&tbnid=El6B9n8EdWaYyM&vet=12ahUKEwju3bGyx_jrAhULbRoKHa8JAmoQMygAegUIARCPAQ..i&docid=2R-YJ1lBuW-gFM&w=820&h=312&q=cakeville%20kenya%20offers&ved=2ahUKEwju3bGyx_jrAhULbRoKHa8JAmoQMygAegUIARCPAQ">
+<strong> All are welcome to Cakeville bakery.<em>The home of innovations and satisfaction!!! <em></strong>  
+   Cakes vary from:
+    <ol><li>wedding cakes
+        <li>birthday cakes
+        <li>party cakes
+        <li>official cakes</ol>
+    If sugar is not your groove ..you can get sugarless cakes or if you have egg allergies... DO NOT WORRY!!!You have brrn catered for there are eggless cakes specially made for you.
+    <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fyululate.com%2Fcompany%2Fcake-ville-ltd%2F3398&psig=AOvVaw0tje7Xob-gR5Q0xO71UDfI&ust=1600724747070000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDl6MPa-OsCFQAAAAAdAAAAABAD">
+    </p> </div>     
+            
+    </body>
+  
+
